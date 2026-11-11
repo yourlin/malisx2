@@ -1,0 +1,19 @@
+src/vk/mali_cmd_dispatch.c
+  s_eafb0b906f210f::t_9b6bf9380460ac 187,241-244,246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d891ac83b70f172bf13daebd1cc57337fa68acbe",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
