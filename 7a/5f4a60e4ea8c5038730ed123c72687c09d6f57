@@ -1,0 +1,25 @@
+src/vk/mali_cmd_copy.c
+  s_eafb0b906f210f::t_bfd033170f9cf1 366-369,429-432,552-558,560-562,610,612-614
+src/vk/mali_device.c
+  s_eafb0b906f210f::t_999cda4dccd63b 129-130,140-153,157-160,166-167,458-463
+src/vk/mali_pipeline.c
+  s_eafb0b906f210f::t_03ed7e31327d99 439-542,1017-1036,1047-1049,1060-1082,1097-1099
+src/vk/mali_vk.h
+  s_eafb0b906f210f::t_34088f0f29a929 18,363-367,372-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7a5f4a60e4ea8c5038730ed123c72687c09d6f57",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
