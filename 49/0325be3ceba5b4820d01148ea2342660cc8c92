@@ -1,0 +1,36 @@
+src/vk/mali_tess_cpu.c
+  s_eafb0b906f210f::t_14f537f7a481cc 1-134
+  s_eafb0b906f210f::t_a2df9d8c1f54ca 135-144
+src/meson.build
+  s_eafb0b906f210f::t_877be3dfff3bf6 186-187
+src/vk/cl/mali_tessellator.h
+  s_eafb0b906f210f::t_be939fac7cf100 23-24,405-410,413
+src/vk/mali_cmd_draw.c
+  s_eafb0b906f210f::t_f88b65da23c527 219-220,436-443,450,484-502,539-557
+src/vk/mali_pipeline.c
+  s_eafb0b906f210f::t_66623dd34aa77f 71-72,95-98,1166-1184
+src/vk/mali_pipeline.h
+  s_eafb0b906f210f::t_168476b0ac9412 203-205
+src/vk/mali_shader.c
+  s_eafb0b906f210f::t_71db3c44bc9e99 3029-3074,3098-3099,3111-3117
+src/vk/mali_shader.h
+  s_eafb0b906f210f::t_0337ff39f37d2f 550-553
+src/vk/mali_tess_pattern.h
+  s_eafb0b906f210f::t_0d0e0b36a11a72 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "490325be3ceba5b4820d01148ea2342660cc8c92",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
