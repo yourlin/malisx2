@@ -1,0 +1,49 @@
+src/vk/mali_cmd_buffer.h
+  s_eafb0b906f210f::t_bfa6c42b650c90 251-256
+src/vk/mali_cmd_copy.c
+  s_eafb0b906f210f::t_6766a36a31d883 313-391,420-423
+src/vk/mali_cmd_dispatch.c
+  s_eafb0b906f210f::t_affcaaaf1bcbe3 184-238
+src/vk/mali_cmd_draw.c
+  s_eafb0b906f210f::t_74d573ca0f7b8f 52,128-227
+src/vk/mali_cmd_draw.h
+  s_eafb0b906f210f::t_f4916402b19c63 432,456-478
+src/vk/mali_cmd_draw_indirect.c
+  s_eafb0b906f210f::t_1bf76b2d0843dd 116-117,346-357
+src/vk/mali_cmd_gfx.h
+  s_eafb0b906f210f::t_715ac64e5136ce 319-323
+src/vk/mali_cmd_state.h
+  s_eafb0b906f210f::t_eec9ede2d19cd7 428,439,1017-1019,1083
+src/vk/mali_cs.h
+  s_eafb0b906f210f::t_adcfca92526c69 190-192
+src/vk/mali_physical_device.c
+  s_eafb0b906f210f::t_82339452d4fe6e 610-613,749,751-759,767-770,1243-1244
+src/vk/mali_pipeline.c
+  s_eafb0b906f210f::t_1de5e305a4d839 383,398-399,715,743,867
+src/vk/mali_pipeline.h
+  s_eafb0b906f210f::t_443a9dc6bcd22e 96-98
+src/vk/mali_pipeline_state.c
+  s_eafb0b906f210f::t_78b96003f27176 772-793,806-807
+src/vk/mali_shader.c
+  s_eafb0b906f210f::t_c30c84e651d820 1671-1680,1769-1809,1811-1812,1836-1842,1853-1958,2499-2502,2513-2516,2536-2539,2672-2675,2748-2751
+src/vk/mali_shader.h
+  s_eafb0b906f210f::t_e5b6e66c9d5a0c 111-114,418-425,506-508,510
+src/vk/mali_vk.h
+  s_eafb0b906f210f::t_c56abfa2884c2e 167,171-187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1036ec756680e2c0d8ae07c019fb6cd49a38a891",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
