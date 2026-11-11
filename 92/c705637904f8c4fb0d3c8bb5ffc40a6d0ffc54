@@ -1,0 +1,23 @@
+src/vk/mali_cmd_draw.c
+  s_eafb0b906f210f::t_26e6820530a22b 298-315
+src/vk/mali_shader.c
+  s_eafb0b906f210f::t_b9d455cb795943 2804-2833,2885,2908-3313,3342,3363-3378
+src/vk/mali_shader.h
+  s_eafb0b906f210f::t_e278b1ce80ad36 528-532
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "92c705637904f8c4fb0d3c8bb5ffc40a6d0ffc54",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
