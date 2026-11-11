@@ -1,0 +1,41 @@
+src/vk/mali_cmd_buffer.c
+  s_eafb0b906f210f::t_52d6820e1422c0 87-108,134-145,198-199
+src/vk/mali_cmd_buffer.h
+  s_eafb0b906f210f::t_2b85b969642add 158-161
+src/vk/mali_cmd_copy.c
+  s_eafb0b906f210f::t_d24be47c9abff2 542,596-597,599-602,608-617
+src/vk/mali_cmd_dispatch.c
+  s_eafb0b906f210f::t_f5e55816504b90 217,245
+src/vk/mali_cmd_gfx.h
+  s_eafb0b906f210f::t_c9d6ff3d3251d6 62-74,388-391
+src/vk/mali_cmd_state.c
+  s_eafb0b906f210f::t_84d5e754956fd3 294-319
+src/vk/mali_cmd_state.h
+  s_eafb0b906f210f::t_8b94ac9516277b 74-76,338-343,345-346,371,374-417,419-420,451-457
+src/vk/mali_device.c
+  s_eafb0b906f210f::t_e3775334f3f65b 126-127
+src/vk/mali_jm.h
+  s_eafb0b906f210f::t_74de8644dd6faf 459-460
+src/vk/mali_jm_cmd_buffer.c
+  s_eafb0b906f210f::t_6c459ff5c0d593 152-173,220
+src/vk/mali_pipeline.c
+  s_eafb0b906f210f::t_513aed6582e2f8 973-975
+src/vk/mali_vk.h
+  s_eafb0b906f210f::t_a76ad38c25b222 352-357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e0cffb6b208dc09e50bdd68e7170e70fdf0af923",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
