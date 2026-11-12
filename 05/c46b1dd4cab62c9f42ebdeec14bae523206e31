@@ -1,0 +1,133 @@
+src/measurement/timing.c
+  s_eafb0b906f210f::t_a4948b9aa31eea 61-62,75,104,115
+src/vk/mali_cmd_draw.c
+  s_eafb0b906f210f::t_913a9e286c560a 218-219,362-538,547-550
+  s_eafb0b906f210f::t_defc28737cd74e 41-42,113,119,648
+  s_eafb0b906f210f::t_9335df0d50277b 217,220-361,542-546,551
+  s_eafb0b906f210f::t_74d573ca0f7b8f 52,128-216,539-541,552-559
+src/vk/mali_cmd_draw_indirect.c
+  s_eafb0b906f210f::t_b077f190cda6fb 358-365
+  s_eafb0b906f210f::t_1bf76b2d0843dd 116-117,346-357
+  s_eafb0b906f210f::t_7e98f672f0d143 195,197,235-237,256,266,268,307,311,316,321,323,332-334
+mesa-glue/src/poly/meson.build
+  s_eafb0b906f210f::t_21cc29a66c5460 1-39
+src/vk/mali_cmd_meta_gfx.c
+  s_eafb0b906f210f::t_28b277d5ca5dee 812-820,827
+src/vk/mali_cmd_state.h
+  s_eafb0b906f210f::t_faf63ace7af0f5 444,1288-1292
+  s_eafb0b906f210f::t_c15f491507c902 440-443,681,696-703,1285-1287,1293
+  s_eafb0b906f210f::t_eec9ede2d19cd7 428,439,1029-1031,1095
+  s_eafb0b906f210f::t_b7ce9b046dfc1e 1085-1094,1096-1115
+  s_eafb0b906f210f::t_3a65f53808bcd3 738-740
+mesa-glue/src/meson.build
+  s_eafb0b906f210f::t_fc39b42faf6ac7 10
+src/vk/mali_cmd_draw.h
+  s_eafb0b906f210f::t_181d5da869baf2 7-8,25-26,31-52,156-179,181-182,184,190-192,205,208,212,233-234,236,252-254,259-260,358,366,371,376,386-388,391-392,399-401,404-405,415-416,426-431,435,439-442,444
+  s_eafb0b906f210f::t_f4916402b19c63 432,456-478
+src/vk/mali_cmd_render.c
+  s_eafb0b906f210f::t_e09768bb20c351 47-48,132-136
+meson.options
+  s_eafb0b906f210f::t_626e38f26ab8c8 11-19
+src/vk/mali_vk.h
+  s_eafb0b906f210f::t_c56abfa2884c2e 167,187-203
+  s_eafb0b906f210f::t_d7c46a7fb24372 454-456,460,467
+  s_eafb0b906f210f::t_5eff294dd751ad 168-177,181-186,356-359
+src/vk/gen_shader_cache_id.py
+  s_eafb0b906f210f::t_54554a542812f2 89,94-95
+src/vk/mali_shader.c
+  s_eafb0b906f210f::t_1e7fdbae4629b4 61-63,236-265,1316-1319,2688-2964,3095-3105
+  s_eafb0b906f210f::t_3b638d589e3da5 2965-3094
+  s_eafb0b906f210f::t_c30c84e651d820 1707-1716,1805-1845,1847-1848,1872-1878,1889-1994,2535-2538,2549-2552,2572-2575,3126-3129,3202-3205
+  s_eafb0b906f210f::t_98f66185d24bd9 2380-2383,2388,2390,2399,2412
+src/vk/mali_cs.h
+  s_eafb0b906f210f::t_adcfca92526c69 190-192
+  s_eafb0b906f210f::t_407f0f227724a6 117-119
+src/vk/mali_query.c
+  s_eafb0b906f210f::t_6e4d504eb6ecea 209-231
+src/vk/mali_cmd_copy.c
+  s_eafb0b906f210f::t_f188503285ef6a 313-454,566-569
+  s_eafb0b906f210f::t_6766a36a31d883 455-533,562-565
+src/vk/mali_pipeline.h
+  s_eafb0b906f210f::t_443a9dc6bcd22e 96-98
+  s_eafb0b906f210f::t_c78c90b03c199b 198-199,201,253,256-257
+  s_eafb0b906f210f::t_5138282cef5ba7 202,254-255,258-259
+src/vk/gen_spirv_h.py
+  s_eafb0b906f210f::t_eb040a09ebd8f0 1-23
+src/vk/mali_arch.h
+  s_eafb0b906f210f::t_d033ba1601af66 26-27,88-123,130-131,138-145,163,166-173,181-183
+meson.build
+  s_eafb0b906f210f::t_15ecc6d1528202 31-34,37-40,43-44
+mesa-glue/src/poly/cl/meson.build
+  s_eafb0b906f210f::t_449555cf0137cb 1-28
+src/vk/cl/mali_tess.cl
+  s_eafb0b906f210f::t_f179a1cc83ed7b 1-55
+src/vk/mali_shader.h
+  s_eafb0b906f210f::t_e5b6e66c9d5a0c 111-114,428-435,560-562,564
+  s_eafb0b906f210f::t_2c49ab2a87291e 115-117,133-139,509-528,551-552,596-603,611-612
+  s_eafb0b906f210f::t_9b7b5a87409644 529-550,604-610
+  s_eafb0b906f210f::t_4853aa4ee6f234 486,491
+src/vk/mali_cmd_buffer.c
+  s_eafb0b906f210f::t_850b7c29ca75fa 102,113,189-193
+src/vk/mali_queue.h
+  s_eafb0b906f210f::t_7092353cafb39c 180-186
+src/vk/mali_wsi.c
+  s_eafb0b906f210f::t_54b1f7f50b9feb 63-64,89,640,731,734-737,741-742,748-750,752
+src/vk/mali_cmd_dispatch.c
+  s_eafb0b906f210f::t_1e042b24a28514 202-216,218
+  s_eafb0b906f210f::t_affcaaaf1bcbe3 184-201,217,219-250
+src/vk/mali_fb.c
+  s_eafb0b906f210f::t_e4e7635d87556a 275-276
+src/meson.build
+  s_eafb0b906f210f::t_d7969bc56107f9 204-230,245
+  s_eafb0b906f210f::t_9d6af23c9131f4 133-134,250
+  s_eafb0b906f210f::t_86a4a662527742 75,90,125,145-146,159-160,162,179,182,184-185,197-203,231-237,240-244,246-249,251-254,332-335
+src/vk/mali_cmd_buffer.h
+  s_eafb0b906f210f::t_c47344ce0824a9 177-178,201-202
+  s_eafb0b906f210f::t_975a3ef7709a08 258-260
+  s_eafb0b906f210f::t_bfa6c42b650c90 251-255,261
+  s_eafb0b906f210f::t_c0e9f75c9e9fb4 256-257
+src/measurement/recorder.c
+  s_eafb0b906f210f::t_c9dc6d82a4b089 167-168
+src/vk/mali_queue.c
+  s_eafb0b906f210f::t_57038983ad85d4 72,97,383-385
+src/vk/mali_pipeline.c
+  s_eafb0b906f210f::t_9c652d29a5256c 89-92,773-784,794-795,797,829-836,846-851,893-896,936-973,1028-1029,1060-1061,1082-1085
+  s_eafb0b906f210f::t_31821714f0713b 84-88,93,796,824-828,837,891-892,901-935,974-975,1026-1027,1057-1059,1062,1077-1081,1086
+  s_eafb0b906f210f::t_1de5e305a4d839 393,408-409,725,753,992
+src/vk/mali_pipeline_state.c
+  s_eafb0b906f210f::t_cc63ee51fa8ef2 806-808
+  s_eafb0b906f210f::t_3ed242ed59316f 1026
+  s_eafb0b906f210f::t_2e42dbb24499c8 455-462,690,931-932,942
+  s_eafb0b906f210f::t_78b96003f27176 772-793,809
+src/vk/mali_cmd_gfx.h
+  s_eafb0b906f210f::t_173eb0f2fdcf39 335-340
+  s_eafb0b906f210f::t_715ac64e5136ce 325-329
+  s_eafb0b906f210f::t_b7947ad6c55c85 321-323
+  s_eafb0b906f210f::t_f2ae2bc0bbd98d 319-320,324
+src/vk/mali_physical_device.c
+  s_eafb0b906f210f::t_bece6ff3116705 76-79,84-87,195-215,225-226,476,515,521,527,542,558,570,573-575,581,598-609,626,640,738-740,747,754,765-768,817-828,937-938,1245,1267-1285,1390-1392,1554-1555,1557,1562,1564,1610-1613,1618-1619
+  s_eafb0b906f210f::t_df7d5673a3f6d5 730-732,1249-1255,1265
+  s_eafb0b906f210f::t_82339452d4fe6e 610-613,753,755-763,771-774,1247-1248
+  s_eafb0b906f210f::t_19a1297b7fd3bc 733-735,1256-1264
+src/vk/mali_device.c
+  s_eafb0b906f210f::t_379cde125a07fa 210-211
+  s_eafb0b906f210f::t_0da76c8c58b1b6 160,165-168,178,198,263,272-275,393-394,402-403
+src/vk/mali_cmd_query.c
+  s_eafb0b906f210f::t_59bef1fe120827 36-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "05c46b1dd4cab62c9f42ebdeec14bae523206e31",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
