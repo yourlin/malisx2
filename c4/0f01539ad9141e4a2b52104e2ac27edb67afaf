@@ -1,0 +1,22 @@
+README.md
+  s_eafb0b906f210f::t_2a7ae24e7809c3 11-20
+  s_eafb0b906f210f::t_6ca953ce1311b1 87-95
+src/vk/cl/mali_tess.cl
+  s_eafb0b906f210f::t_afe2352638b5f6 56,73,157-179,184-185,201-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c40f01539ad9141e4a2b52104e2ac27edb67afaf",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "linyesh <linyesh@amazon.com>"
+    }
+  }
+}
