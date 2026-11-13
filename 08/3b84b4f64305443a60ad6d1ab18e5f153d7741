@@ -1,0 +1,88 @@
+src/measurement/timing.c
+  s_eafb0b906f210f::t_34cdb2f8e6702e 8
+src/vk/mali_cmd_event.c
+  s_eafb0b906f210f::t_c062b99862728a 7
+src/vk/mali_cmd_query.c
+  s_eafb0b906f210f::t_022c753c76f191 7
+src/vk/mali_cs.h
+  s_eafb0b906f210f::t_3af3eae5c1d379 23
+src/vk/mali_image.c
+  s_eafb0b906f210f::t_a6d10597916d0b 315-316
+src/vk/mali_layout_check.h
+  s_eafb0b906f210f::t_4141ff7266a3ce 9-15
+src/vk/mali_queue.h
+  s_eafb0b906f210f::t_cea744e1fd4b55 28
+src/vk/mali_sync.c
+  s_eafb0b906f210f::t_1d2944d466d691 33
+src/vk/mali_vk.h
+  s_eafb0b906f210f::t_7a3ee319da44a2 517,520
+  s_bf1a952c65931e::t_645ea4737487d6 18,186-194,204-207,373-378,383-387,392-399
+src/vk/mali_wsi.c
+  s_eafb0b906f210f::t_b093c1e551d02d 666
+src/vk/mali_shader.h
+  s_bf1a952c65931e::t_645ea4737487d6 526-530,553-556
+src/vk/cl/mali_tess.cl
+  s_bf1a952c65931e::t_645ea4737487d6 17,19-49,54-71,73-74,76-129,131-153,156-180,184-185,188-207
+src/vk/mali_pipeline.c
+  s_bf1a952c65931e::t_645ea4737487d6 71-72,95-98,489-592,1067-1086,1097-1099,1110-1132,1147-1149,1151-1153,1210-1228
+src/vk/mali_jm_cmd_buffer.c
+  s_bf1a952c65931e::t_645ea4737487d6 152-173,220
+src/vk/mali_cmd_buffer.c
+  s_bf1a952c65931e::t_645ea4737487d6 48-49,136-157,222
+src/vk/mali_cmd_draw.c
+  s_bf1a952c65931e::t_645ea4737487d6 223-224,302-319,395-418,482-489,496,530-562,583-589,593,599-600,604-622,636-671
+src/vk/mali_cmd_dispatch.c
+  s_bf1a952c65931e::t_645ea4737487d6 193,221,247-265,267-271
+src/vk/mali_tess_cpu.c
+  s_bf1a952c65931e::t_645ea4737487d6 1-146
+src/vk/mali_jm.h
+  s_bf1a952c65931e::t_645ea4737487d6 475-476
+src/vk/mali_shader.c
+  s_bf1a952c65931e::t_645ea4737487d6 2852-2881,2933,2956-3361,3390,3411-3426,3484,3501-3502,3532-3661,3670,3675,3682-3698,3703-3704,3716-3722,3726-3728,3744
+src/vk/mali_cmd_copy.c
+  s_bf1a952c65931e::t_645ea4737487d6 367-491,503-511,560-566,684,686-692,694-696,716,744,746-748,750-751,753-756,762-777
+src/vk/mali_cmd_state.h
+  s_bf1a952c65931e::t_645ea4737487d6 74-76,159-163,166,343-348,350-351,376,379-422,424-425,456-460
+src/vk/mali_cmd_state.c
+  s_bf1a952c65931e::t_645ea4737487d6 294-319
+src/vk/cl/mali_tessellator.h
+  s_bf1a952c65931e::t_645ea4737487d6 1-1843
+src/vk/mali_cmd_buffer.h
+  s_bf1a952c65931e::t_645ea4737487d6 167-170
+README.md
+  s_bf1a952c65931e::t_645ea4737487d6 24-29,95-103
+src/vk/mali_device.c
+  s_bf1a952c65931e::t_645ea4737487d6 179,189-200,216-217,219-220,230-243,247-250,256-257,327-328,563-567
+src/vk/mali_pipeline.h
+  s_bf1a952c65931e::t_645ea4737487d6 203-205
+src/vk/mali_cmd_gfx.h
+  s_bf1a952c65931e::t_645ea4737487d6 62-74,397-399
+src/meson.build
+  s_bf1a952c65931e::t_645ea4737487d6 119,191-192
+src/vk/mali_tess_pattern.h
+  s_bf1a952c65931e::t_645ea4737487d6 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "083b84b4f64305443a60ad6d1ab18e5f153d7741",
+  "prompts": {},
+  "sessions": {
+    "s_bf1a952c65931e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "baebe5b8-8e9e-4fe7-820a-ba6bac100c6a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    },
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    }
+  }
+}
