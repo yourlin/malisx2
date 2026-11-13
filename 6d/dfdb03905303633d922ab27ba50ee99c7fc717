@@ -1,0 +1,37 @@
+src/measurement/timing.c
+  s_eafb0b906f210f::t_34cdb2f8e6702e 8
+src/vk/mali_cmd_event.c
+  s_eafb0b906f210f::t_c062b99862728a 7
+src/vk/mali_cmd_query.c
+  s_eafb0b906f210f::t_022c753c76f191 7
+src/vk/mali_cs.h
+  s_eafb0b906f210f::t_3af3eae5c1d379 23
+src/vk/mali_image.c
+  s_eafb0b906f210f::t_a6d10597916d0b 315-316
+src/vk/mali_layout_check.h
+  s_eafb0b906f210f::t_4141ff7266a3ce 9-15
+src/vk/mali_queue.h
+  s_eafb0b906f210f::t_cea744e1fd4b55 28
+src/vk/mali_sync.c
+  s_eafb0b906f210f::t_1d2944d466d691 33
+src/vk/mali_vk.h
+  s_eafb0b906f210f::t_7a3ee319da44a2 517,520
+src/vk/mali_wsi.c
+  s_eafb0b906f210f::t_b093c1e551d02d 666
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6ddfdb03905303633d922ab27ba50ee99c7fc717",
+  "prompts": {},
+  "sessions": {
+    "s_eafb0b906f210f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a1b9725-f03b-48e0-b81c-c2efbd0ae408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    }
+  }
+}
