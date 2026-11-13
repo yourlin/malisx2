@@ -1,0 +1,73 @@
+meson.options
+  s_bf1a952c65931e::t_54a780a5e42599 11-19
+src/vk/mali_cmd_state.h
+  s_bf1a952c65931e::t_54a780a5e42599 428,439-444,681,696-703,1029-1031,1095,1285-1293
+mesa-glue/src/poly/meson.build
+  s_bf1a952c65931e::t_54a780a5e42599 1-39
+src/vk/cl/mali_tess.cl
+  s_bf1a952c65931e::t_54a780a5e42599 1-55
+mesa-glue/src/poly/cl/meson.build
+  s_bf1a952c65931e::t_54a780a5e42599 1-28
+src/vk/mali_pipeline.c
+  s_bf1a952c65931e::t_54a780a5e42599 84-93,437,452-453,769,797,817-828,838-841,868-881,890-895,935-940,945-1019,1036,1070-1073,1101-1106,1121-1130
+src/vk/mali_cs.h
+  s_bf1a952c65931e::t_54a780a5e42599 112-114
+src/vk/mali_cmd_buffer.h
+  s_bf1a952c65931e::t_54a780a5e42599 301-311
+src/vk/mali_pipeline_state.c
+  s_bf1a952c65931e::t_54a780a5e42599 462-469,784-805,818-821,1044
+src/vk/mali_cmd_gfx.h
+  s_bf1a952c65931e::t_54a780a5e42599 328-338,345-347
+  s_bf1a952c65931e::t_7c7c8e845d8508 344
+src/vk/mali_query.c
+  s_bf1a952c65931e::t_54a780a5e42599 209-231
+src/vk/mali_cmd_draw_indirect.c
+  s_bf1a952c65931e::t_54a780a5e42599 145-146,264-266,285,336,340,345,375-393
+  s_bf1a952c65931e::t_d527b79c253f07 394
+src/vk/mali_cmd_draw.h
+  s_bf1a952c65931e::t_54a780a5e42599 32-34,158-159,161,167-172,180-182,184,190-192,210,214,419-420,436,460-481
+  s_bf1a952c65931e::t_45299de9dc58d9 482
+src/vk/mali_cmd_dispatch.c
+  s_bf1a952c65931e::t_54a780a5e42599 190-256
+src/vk/mali_device.c
+  s_bf1a952c65931e::t_54a780a5e42599 289-290
+src/vk/mali_shader.c
+  s_bf1a952c65931e::t_54a780a5e42599 61-63,236-265,1332-1335,1723-1732,1821-1861,1863-1864,1888-1894,1905-2010,2583-2586,2597-2600,2620-2623,2736-3153,3174-3177,3250-3253
+src/vk/mali_vk.h
+  s_bf1a952c65931e::t_54a780a5e42599 174-184,188-210,363-366,461-463
+src/vk/gen_spirv_h.py
+  s_bf1a952c65931e::t_54a780a5e42599 1-23
+src/vk/mali_cmd_copy.c
+  s_bf1a952c65931e::t_54a780a5e42599 314-534,563-570
+src/meson.build
+  s_bf1a952c65931e::t_54a780a5e42599 133-134,201-227,248,250,252
+src/vk/mali_pipeline.h
+  s_bf1a952c65931e::t_54a780a5e42599 96-98,198-199,201-202,253-259
+src/vk/mali_cmd_draw.c
+  s_bf1a952c65931e::t_54a780a5e42599 56,117,123,132-562
+  s_bf1a952c65931e::t_eebe8abcc45645 563
+src/vk/mali_physical_device.c
+  s_bf1a952c65931e::t_54a780a5e42599 544,641-653,724-739,883-888,891-893,906,908-916,918-921,924-927,970-981,1497,1501-1541
+  s_bf1a952c65931e::t_49214fa2288c75 1542
+mesa-glue/src/meson.build
+  s_bf1a952c65931e::t_54a780a5e42599 10
+src/vk/mali_shader.h
+  s_bf1a952c65931e::t_54a780a5e42599 111-117,133-139,424-431,507-550,558-560,562,594-609
+  s_bf1a952c65931e::t_4ec0d958526c0c 610
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "da5c7ac442c1af59a7bd511682f15cb248c9bcc5",
+  "prompts": {},
+  "sessions": {
+    "s_bf1a952c65931e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "baebe5b8-8e9e-4fe7-820a-ba6bac100c6a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    }
+  }
+}
