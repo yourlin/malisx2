@@ -1,0 +1,14 @@
+src/vk/cl/mali_tessellator.h
+  h_d76b34120e23cc 1204-1205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "50bd0e4639d3e042643ad45b9c20890829141576",
+  "prompts": {},
+  "humans": {
+    "h_d76b34120e23cc": {
+      "author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    }
+  }
+}
