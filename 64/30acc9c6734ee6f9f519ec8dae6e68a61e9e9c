@@ -112,6 +112,7 @@ src/vk/mali_cmd_buffer.c
   s_bf1a952c65931e::t_9dcdcdebc7b305 249-253
   s_bf1a952c65931e::t_645ea4737487d6 48-49,136-157,222
   s_393f6b30cd4f1a::t_b36f8541f29a76 270,455-461
+  s_393f6b30cd4f1a::t_d622f8337beccb 223
 meson.build
   s_bf1a952c65931e::t_9dcdcdebc7b305 34-36
 src/vk/mali_queue.h
