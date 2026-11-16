@@ -73,6 +73,7 @@ src/vk/mali_cmd_draw.c
 src/vk/mali_physical_device.c
   s_bf1a952c65931e::t_6b632d3342b2fe 84-87,95,271-294,311-312,583,589,595,610,626,638,672,772,787,920,927,1679-1681,1853-1854,1862,1926,1934
   s_bf1a952c65931e::t_240b443da07a18 544,659-671,742-746,752,755-759,903-908,911-913,926,928-936,938-941,944-947,990-1001,1527,1531-1572
+  s_393f6b30cd4f1a::t_c07cd4c038dddf 747-751,753-754
 src/vk/mali_device.c
   s_bf1a952c65931e::t_785a2ce72d23d9 122,246,352,364,483,494,497-499
   s_bf1a952c65931e::t_54a780a5e42599 289-290
@@ -132,6 +133,14 @@ src/vk/mali_query.c
     }
   },
   "sessions": {
+    "s_393f6b30cd4f1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f52483e-f93f-47f6-a722-29f2714d1544",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    },
     "s_bf1a952c65931e": {
       "agent_id": {
         "tool": "claude",
