@@ -1,0 +1,25 @@
+src/vk/mali_cmd_state.h
+  s_393f6b30cd4f1a::t_b559b25965c91a 1347
+src/vk/mali_pipeline.c
+  s_393f6b30cd4f1a::t_b559b25965c91a 1273
+src/vk/mali_pipeline_state.c
+  s_393f6b30cd4f1a::t_b559b25965c91a 922-932
+src/vk/mali_pipeline.h
+  s_393f6b30cd4f1a::t_b559b25965c91a 263-265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c9972dc132faf5dd80f9af5f81eabc4318ec5fd5",
+  "prompts": {},
+  "sessions": {
+    "s_393f6b30cd4f1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f52483e-f93f-47f6-a722-29f2714d1544",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    }
+  }
+}
