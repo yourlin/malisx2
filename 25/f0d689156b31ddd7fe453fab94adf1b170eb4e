@@ -1,0 +1,19 @@
+src/vk/mali_pipeline.c
+  s_393f6b30cd4f1a::t_8b650121488001 1120-1127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25f0d689156b31ddd7fe453fab94adf1b170eb4e",
+  "prompts": {},
+  "sessions": {
+    "s_393f6b30cd4f1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f52483e-f93f-47f6-a722-29f2714d1544",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yourlin <6930286+yourlin@users.noreply.github.com>"
+    }
+  }
+}
